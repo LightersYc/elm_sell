@@ -2,7 +2,9 @@
 
 仿饿了么APP商家详情页
 
+
 项目基于vue-cli3.0进行搭建，并使用了vue全家桶vue vuex vue-router vantui better-scroll等
+
 
 
 #### 项目要点
